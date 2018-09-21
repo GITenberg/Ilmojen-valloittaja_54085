@@ -1,5 +1,5 @@
 _repo: Ilmojen-valloittaja_54085
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Robur-le-conquérant. Finnish
 contributor:
   translator:
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '39087'
     url: http://www.gutenberg.org/2009/agents/39087
     wikipedia: https://fi.wikipedia.org/wiki/Werner_Anttila
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Verne, Jules
@@ -28,6 +31,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jules_Verne
     - http://pt.wikipedia.org/wiki/Júlio_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54085#Ilmojen-valloittaja
 gutenberg_issued: '2017-01-31'
 gutenberg_type: Text
 identifiers:
